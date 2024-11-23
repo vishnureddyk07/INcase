@@ -1,0 +1,18 @@
+.container {
+  display: none; /* Hide all containers initially */
+}
+
+/* Show only the first container by default */
+#content01 {
+  display: flex;
+}
+
+/* Style the rest of your form here */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
