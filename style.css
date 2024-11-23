@@ -1,0 +1,16 @@
+.container {
+  display: none; 
+}
+
+#content01 {
+  display: flex;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
